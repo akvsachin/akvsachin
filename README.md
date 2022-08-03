@@ -6,6 +6,7 @@ Recent B.Tech Graduate
 
 
 - 🔭 I’m currently working on ... Embedded software technologies
+- 🌱 I’m currently learning ... Analog and Digital Electronics Concepts
 - 👯 I’m looking to collaborate with ... anyone with such Objective
 - 🤔 I’m looking for help with ... guidance for reaching my Objective
 - 💬 Ask me about any problems to be solved with Logics
