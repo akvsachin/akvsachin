@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-Objective: System-On-Chip Engineer
+Data Engineer with 2+ Years Exp. 
 
-Recent B.Tech Graduate 
-
-
-- 🔭 I’m currently working on ... Embedded software technologies
-- 🌱 I’m currently learning ... Analog and Digital Electronics Concepts
+- 🔭 I’m currently working as ... PL/SQL Developer
+- 🌱 I’m currently learning ... Cloud Technologies - AWS, GCP
 - 👯 I’m looking to collaborate with ... anyone with such Objective
 - 🤔 I’m looking for help with ... guidance for reaching my Objective
+- 😣 My Ex ... System On-Chip Engineer
 - 💬 Ask me about any problems to be solved with Logics
 - 📫 How to reach me: Gmail, LinkedIn
-- ⚡ Fun fact: A person who finds the easiest solution for the toughest problem
+- ⚡ Fun fact: THE ONE who finds the easiest solution for the toughest problem
+
+
 
 <!--
 **akvsachin/akvsachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
